@@ -1,4 +1,4 @@
-# # SpaceCadet 🚀!
+# # SpaceCadet 🚀
 **SpaceCadet** es un concepto de sitio web con un **diseño moderno** inspirado en el espacio, que ofrece un estilo oscuro y vibrante. Este proyecto ha sido desarrollado pensando en su adaptabilidad para una variedad de proyectos futuros, brindando flexibilidad para satisfacer diversas necesidades.
 
 
